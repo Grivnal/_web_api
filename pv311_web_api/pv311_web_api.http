@@ -1,0 +1,6 @@
+@pv311_web_api_HostAddress = http://localhost:5074
+
+GET {{pv311_web_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
